@@ -1,0 +1,550 @@
+
+--------------------------------------------------
+ Total repeating customers in 2022 
+--------------------------------------------------
+Total repeating customers in January: 9
+Total repeating customers in February: 4
+Total repeating customers in March: 9
+Total repeating customers in April: 0
+Total repeating customers in May: 1
+Total repeating customers in June: 7
+Total repeating customers in July: 2
+Total repeating customers in August: 3
+Total repeating customers in September: 3
+Total repeating customers in October: 3
+Total repeating customers in November: 4
+Total repeating customers in December: 2
+--------------------------------------------------
+ Total repeating customers in 2023 
+--------------------------------------------------
+Total repeating customers in January: 6
+Total repeating customers in February: 0
+Total repeating customers in March: 5
+Total repeating customers in April: 2
+Total repeating customers in May: 5
+Total repeating customers in June: 10
+Total repeating customers in July: 4
+Total repeating customers in August: 6
+Total repeating customers in September: 1
+Total repeating customers in October: 8
+Total repeating customers in November: 5
+Total repeating customers in December: 6
+--------------------------------------------------
+ Total repeating customers in 2024 
+--------------------------------------------------
+Total repeating customers in January: 3
+Total repeating customers in February: 5
+Total repeating customers in March: 5
+Total repeating customers in April: 5
+Total repeating customers in May: 5
+Total repeating customers in June: 4
+Total repeating customers in July: 4
+Total repeating customers in August: 4
+Total repeating customers in September: 5
+Total repeating customers in October: 6
+Total repeating customers in November: 10
+Total repeating customers in December: 6
+========================================
+ Top selling product on my store 2022 
+========================================
+----------------------------------------
+ Top 3 selling products in January
+----------------------------------------
+Table: 4 
+Perform: 3 
+Tax: 3 
+----------------------------------------
+ Top 3 selling products in February
+----------------------------------------
+Away: 4 
+Able: 3 
+Keep: 3 
+----------------------------------------
+ Top 3 selling products in March
+----------------------------------------
+Tax: 4 
+Ahead: 4 
+Program: 4 
+----------------------------------------
+ Top 3 selling products in April
+----------------------------------------
+Many: 3 
+Behind: 3 
+Add: 3 
+----------------------------------------
+ Top 3 selling products in May
+----------------------------------------
+Change: 2 
+Part: 2 
+Phone: 2 
+----------------------------------------
+ Top 3 selling products in June
+----------------------------------------
+Manage: 3 
+First: 3 
+Prepare: 3 
+----------------------------------------
+ Top 3 selling products in July
+----------------------------------------
+Bed: 3 
+Work: 3 
+Drive: 3 
+----------------------------------------
+ Top 3 selling products in August
+----------------------------------------
+On: 3 
+Country: 3 
+North: 2 
+----------------------------------------
+ Top 3 selling products in September
+----------------------------------------
+Network: 4 
+Possible: 2 
+Prepare: 2 
+----------------------------------------
+ Top 3 selling products in October
+----------------------------------------
+Program: 3 
+Change: 3 
+Be: 3 
+----------------------------------------
+ Top 3 selling products in November
+----------------------------------------
+While: 4 
+Network: 3 
+Phone: 3 
+----------------------------------------
+ Top 3 selling products in December
+----------------------------------------
+Really: 2 
+Protect: 2 
+Bed: 2 
+========================================
+ Top selling product on my store 2023 
+========================================
+----------------------------------------
+ Top 3 selling products in January
+----------------------------------------
+General: 3 
+Mind: 3 
+Seem: 3 
+----------------------------------------
+ Top 3 selling products in February
+----------------------------------------
+North: 4 
+Program: 2 
+While: 2 
+----------------------------------------
+ Top 3 selling products in March
+----------------------------------------
+Follow: 4 
+Foot: 4 
+Bed: 3 
+----------------------------------------
+ Top 3 selling products in April
+----------------------------------------
+Work: 3 
+Feeling: 2 
+On: 2 
+----------------------------------------
+ Top 3 selling products in May
+----------------------------------------
+Table: 4 
+Number: 4 
+Evening: 3 
+----------------------------------------
+ Top 3 selling products in June
+----------------------------------------
+Many: 4 
+On: 3 
+Phone: 3 
+----------------------------------------
+ Top 3 selling products in July
+----------------------------------------
+Ready: 3 
+Table: 3 
+Bed: 3 
+----------------------------------------
+ Top 3 selling products in August
+----------------------------------------
+North: 6 
+Environmental: 4 
+Table: 3 
+----------------------------------------
+ Top 3 selling products in September
+----------------------------------------
+Mind: 3 
+Job: 2 
+Foot: 2 
+----------------------------------------
+ Top 3 selling products in October
+----------------------------------------
+News: 5 
+Stage: 4 
+Trip: 4 
+----------------------------------------
+ Top 3 selling products in November
+----------------------------------------
+Some: 6 
+North: 4 
+Eat: 3 
+----------------------------------------
+ Top 3 selling products in December
+----------------------------------------
+Same: 4 
+Management: 4 
+Ahead: 4 
+========================================
+ Top selling product on my store 2024 
+========================================
+----------------------------------------
+ Top 3 selling products in January
+----------------------------------------
+Follow: 2 
+Edge: 2 
+Tax: 2 
+----------------------------------------
+ Top 3 selling products in February
+----------------------------------------
+Table: 7 
+West: 4 
+Detail: 4 
+----------------------------------------
+ Top 3 selling products in March
+----------------------------------------
+Program: 4 
+General: 3 
+Behind: 3 
+----------------------------------------
+ Top 3 selling products in April
+----------------------------------------
+Behind: 3 
+Where: 3 
+According: 2 
+----------------------------------------
+ Top 3 selling products in May
+----------------------------------------
+Around: 4 
+Bed: 2 
+Likely: 2 
+----------------------------------------
+ Top 3 selling products in June
+----------------------------------------
+Foot: 3 
+Pay: 3 
+Where: 3 
+----------------------------------------
+ Top 3 selling products in July
+----------------------------------------
+Stage: 4 
+Program: 3 
+Feeling: 3 
+----------------------------------------
+ Top 3 selling products in August
+----------------------------------------
+Art: 3 
+Away: 3 
+Coach: 3 
+----------------------------------------
+ Top 3 selling products in September
+----------------------------------------
+Work: 4 
+List: 3 
+Feeling: 3 
+----------------------------------------
+ Top 3 selling products in October
+----------------------------------------
+Least: 4 
+North: 4 
+Behind: 3 
+----------------------------------------
+ Top 3 selling products in November
+----------------------------------------
+Network: 4 
+North: 4 
+Market: 3 
+----------------------------------------
+ Top 3 selling products in December
+----------------------------------------
+Trip: 3 
+While: 3 
+Black: 3 
+========================================
+ least selling product on my store 2022 
+========================================
+----------------------------------------
+ least 3 selling products in January
+----------------------------------------
+According: 1 
+Feeling: 1 
+Believe: 1 
+----------------------------------------
+ least 3 selling products in February
+----------------------------------------
+Store: 1 
+General: 1 
+Job: 1 
+----------------------------------------
+ least 3 selling products in March
+----------------------------------------
+Consumer: 1 
+Work: 1 
+Detail: 1 
+----------------------------------------
+ least 3 selling products in April
+----------------------------------------
+Compare: 1 
+Trip: 1 
+Mind: 1 
+----------------------------------------
+ least 3 selling products in May
+----------------------------------------
+Ask: 1 
+Happen: 1 
+Really: 1 
+----------------------------------------
+ least 3 selling products in June
+----------------------------------------
+Store: 1 
+Ready: 1 
+Drive: 1 
+----------------------------------------
+ least 3 selling products in July
+----------------------------------------
+Light: 1 
+Perform: 1 
+Finish: 1 
+----------------------------------------
+ least 3 selling products in August
+----------------------------------------
+Evening: 1 
+Be: 1 
+Everything: 1 
+----------------------------------------
+ least 3 selling products in September
+----------------------------------------
+Most: 1 
+Ahead: 1 
+Compare: 1 
+----------------------------------------
+ least 3 selling products in October
+----------------------------------------
+Consumer: 1 
+General: 1 
+Everything: 1 
+----------------------------------------
+ least 3 selling products in November
+----------------------------------------
+Follow: 1 
+Least: 1 
+Number: 1 
+----------------------------------------
+ least 3 selling products in December
+----------------------------------------
+Organization: 1 
+Mind: 1 
+Where: 1 
+========================================
+ least selling product on my store 2023 
+========================================
+----------------------------------------
+ least 3 selling products in January
+----------------------------------------
+Coach: 1 
+Follow: 1 
+Eat: 1 
+----------------------------------------
+ least 3 selling products in February
+----------------------------------------
+Body: 1 
+Finish: 1 
+Standard: 1 
+----------------------------------------
+ least 3 selling products in March
+----------------------------------------
+Pay: 1 
+Standard: 1 
+Second: 1 
+----------------------------------------
+ least 3 selling products in April
+----------------------------------------
+Perform: 1 
+Around: 1 
+Be: 1 
+----------------------------------------
+ least 3 selling products in May
+----------------------------------------
+News: 1 
+Ready: 1 
+Why: 1 
+----------------------------------------
+ least 3 selling products in June
+----------------------------------------
+Why: 1 
+Compare: 1 
+Store: 1 
+----------------------------------------
+ least 3 selling products in July
+----------------------------------------
+General: 1 
+Change: 1 
+Perform: 1 
+----------------------------------------
+ least 3 selling products in August
+----------------------------------------
+Some: 1 
+Everything: 1 
+Consumer: 1 
+----------------------------------------
+ least 3 selling products in September
+----------------------------------------
+Ahead: 1 
+Senior: 1 
+Find: 1 
+----------------------------------------
+ least 3 selling products in October
+----------------------------------------
+Program: 1 
+Detail: 1 
+Eat: 1 
+----------------------------------------
+ least 3 selling products in November
+----------------------------------------
+First: 1 
+West: 1 
+Protect: 1 
+----------------------------------------
+ least 3 selling products in December
+----------------------------------------
+Detail: 1 
+Least: 1 
+News: 1 
+========================================
+ least selling product on my store 2024 
+========================================
+----------------------------------------
+ least 3 selling products in January
+----------------------------------------
+Section: 1 
+Same: 1 
+Environmental: 1 
+----------------------------------------
+ least 3 selling products in February
+----------------------------------------
+Section: 1 
+Management: 1 
+Away: 1 
+----------------------------------------
+ least 3 selling products in March
+----------------------------------------
+Part: 1 
+Seem: 1 
+Management: 1 
+----------------------------------------
+ least 3 selling products in April
+----------------------------------------
+Some: 1 
+Senior: 1 
+Eat: 1 
+----------------------------------------
+ least 3 selling products in May
+----------------------------------------
+Government: 1 
+According: 1 
+Amount: 1 
+----------------------------------------
+ least 3 selling products in June
+----------------------------------------
+News: 1 
+Number: 1 
+Find: 1 
+----------------------------------------
+ least 3 selling products in July
+----------------------------------------
+Network: 1 
+Same: 1 
+Ahead: 1 
+----------------------------------------
+ least 3 selling products in August
+----------------------------------------
+Where: 1 
+So: 1 
+Standard: 1 
+----------------------------------------
+ least 3 selling products in September
+----------------------------------------
+Yes: 1 
+Be: 1 
+Service: 1 
+----------------------------------------
+ least 3 selling products in October
+----------------------------------------
+Everything: 1 
+Management: 1 
+Manage: 1 
+----------------------------------------
+ least 3 selling products in November
+----------------------------------------
+Body: 1 
+Around: 1 
+Stage: 1 
+----------------------------------------
+ least 3 selling products in December
+----------------------------------------
+Finish: 1 
+First: 1 
+Government: 1 
+==================================================
+ Repeated customers more than 5 times 2022 
+==================================================
+==================================================
+ Repeated customers more than 5 times 2023 
+==================================================
+==================================================
+ Repeated customers more than 5 times 2024 
+==================================================
+--------------------------------------------------
+ Monthly sales in 2022 
+--------------------------------------------------
+ In January sales: 174606.83000000002
+ In February sales: 131429.46
+ In March sales: 147872.94999999998
+ In April sales: 99819.55999999998
+ In May sales: 74185.19
+ In June sales: 125984.33
+ In July sales: 96078.60999999999
+ In August sales: 102602.68
+ In September sales: 95015.45999999999
+ In October sales: 78645.33
+ In November sales: 133063.62
+ In December sales: 98196.36
+--------------------------------------------------
+ Monthly sales in 2023 
+--------------------------------------------------
+ In January sales: 108926.39
+ In February sales: 100614.26999999999
+ In March sales: 132403.32
+ In April sales: 81954.66000000002
+ In May sales: 159682.07000000004
+ In June sales: 161371.63999999998
+ In July sales: 113853.06
+ In August sales: 122938.18
+ In September sales: 99777.87
+ In October sales: 140647.43
+ In November sales: 134667.97999999998
+ In December sales: 132234.14
+--------------------------------------------------
+ Monthly sales in 2024 
+--------------------------------------------------
+ In January sales: 85660.83
+ In February sales: 145746.19
+ In March sales: 82357.1
+ In April sales: 121439.22
+ In May sales: 94350.64
+ In June sales: 113249.20000000001
+ In July sales: 83719.15999999999
+ In August sales: 82841.26
+ In September sales: 124696.42
+ In October sales: 124655.69999999998
+ In November sales: 113283.46
+ In December sales: 115690.02
